@@ -1,4 +1,4 @@
-## AirBnB Booking Prediction 
+# AirBnB Booking Prediction 
 
 One of the most valuable information for any company is knowing its user's behavior. A good strategic decision is often made based on knowing the customer's buying patterns and trends. Furthermore, the internet has connected the world and our data is being shared and used for every marketing campaign that is on the web. Data has became the most valuable commodity in the 21st century.
 
