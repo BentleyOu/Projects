@@ -1,6 +1,14 @@
 # Welcome to My Project Portfolio
 ______________
 
+* Project write-ups can be found at [Medium](https://medium.com/@pbentleyou)
+
+* [My LinkedIn Profile](https://www.linkedin.com/in/bentleyou/)
+
+## Yelp Restaurant Recommender
+Built a content-based recommender using Yelp's open dataset (managed data via MongoDB). Utilized text preprocessing techniques such as TF-IDF, stemming, and lemmatization. Performed dimensionality reduction for topic modeling using Latent Semantic Analysis. Used Cosine Similarity as a comparison metric to match user queries to relevant results. Developed a Flask application and deployed it using the Heroku platform
+
+* [Flask Web App](https://yelp-reinvented.herokuapp.com/)
 
 ## AirBnb New User Booking Prediction
 Utilized supervised machine learning models such as Logistic, KNN, Bayesian, RandomForest, XGBoost, and CatBoost to determine if a new user would make a reservation within 5 days after visiting the site. Insights on user behavior led to making strategic recommendations for a marketing campaign. Developed and deployed a web app using Flask and hosted it with Heroku. 
