@@ -17,7 +17,7 @@ One of the most valuable information for any company is knowing its user's behav
 4. Takeaways and Recommendations
 5. Flask App
 
-### Similarly, I wrote a Medium blog [here](https://medium.com/@pbentleyou/how-to-identify-hotel-deals-using-machine-learning-b9195e6a7b7f).
+### Similarly, I wrote a Medium blog [here](https://towardsdatascience.com/new-airbnb-user-booking-prediction-using-machine-learning-874836bff403?).
 
 #### Revelant Files
 1. Pickled dataset in NoteBook folder
