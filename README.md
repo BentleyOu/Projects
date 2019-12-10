@@ -5,7 +5,7 @@ ______________
 
 * [My LinkedIn Profile](https://www.linkedin.com/in/bentleyou/)
 
-## [Purchasing Behavior with Market Basket Analysis (MBA)](https://github.com/BentleyOu/Projects/tree/master/InstaCart%20Market%20Basket%20Analysis)
+## [InstaCart Market Basket Analysis (MBA)](https://github.com/BentleyOu/Projects/tree/master/InstaCart%20Market%20Basket%20Analysis)
 
 Utilized AWS instance to process 32 million observations from the InstaCart open dataset. Uncovered customer and product relationships through extensive exploratory data analysis. Predicted purchasing pattern based on the association rules formed through MBA. Recommended promotions of products based on customer's buying frequencies. Developed a Flask application and deployed it with Heroku
 
