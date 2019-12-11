@@ -19,9 +19,11 @@ Built a content-based recommender using Yelp's open dataset (managed data via Mo
 ## [AirBnb New User Booking Prediction](https://github.com/BentleyOu/Projects/tree/master/AirBnB%20Booking%20Prediction)
 Utilized supervised machine learning models such as Logistic, KNN, Bayesian, RandomForest, XGBoost, and CatBoost to determine if a new user would make a reservation within 5 days after visiting the site. Insights on user behavior led to making strategic recommendations for a marketing campaign. Developed and deployed a web app using Flask and hosted it with Heroku. 
 
+*  [Flask Web App](https://fake-airbnb-webapp.herokuapp.com/predict)
+
 * [Medium Blog Post here](https://medium.com/@pbentleyou/new-airbnb-user-booking-prediction-using-machine-learning-874836bff403)
 
-*  [Flask Web App](https://fake-airbnb-webapp.herokuapp.com/predict)
+
 
 ## [Las Vegas Hotel Price Prediction](https://github.com/BentleyOu/Projects/tree/master/Hotel%20Price%20Prediction)
 Scraped over 3 months of hotel listing data using BeautifulSoup and Selenium. Trained, tuned, and cross-validated a regularized linear regression model to predict the hotel listing price. Exploited algorithms such as Lasso, Ridge, ElasticNet, and GridSearch for model optimization. Utilized the model to predict future hotel listing price to determine if you are being offered a deal. 
