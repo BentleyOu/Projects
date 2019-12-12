@@ -9,6 +9,9 @@ ______________
 
 Utilized AWS instance to process 32 million observations from the InstaCart open dataset. Uncovered customer and product relationships through extensive exploratory data analysis. Predicted purchasing pattern based on the association rules formed through MBA. Recommended promotions of products based on customer's buying frequencies. Developed a Flask application and deployed it with Heroku
 
+
+* [Project Presentation](https://github.com/BentleyOu/Projects/blob/master/InstaCart%20Market%20Basket%20Analysis/Presentation.pdf)
+
 * [Flask Web App](https://frequent-item-finder.herokuapp.com/)
 
 ## [Yelp Restaurant Recommender](https://github.com/BentleyOu/Projects/tree/master/Yelp_Restaurant_Recommender)
