@@ -5,6 +5,8 @@ In the business intelligence world, "market basket analysis" help retailers unde
 
 In this project, I will be using InstaCart's 32+ million observations to perform market basket analysis.
 
+[Project Presentation](https://github.com/BentleyOu/Projects/blob/master/InstaCart%20Market%20Basket%20Analysis/Presentation.pdf)
+
 **Project Objectives**
 
 1. Uncover insights such as customer's buying patterns and their next frequent item based on what they bought.
